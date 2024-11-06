@@ -18,3 +18,5 @@ For the `feature-script` branch, try to create a pull request to merge the branc
 
 ## Description
 This branch is to reherse how conflicts can be resolved in git.
+
+add a line for stashing
